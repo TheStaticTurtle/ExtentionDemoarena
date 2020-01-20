@@ -13,10 +13,10 @@ Vous devez quand meme etre connecter au proxy via gate-info ou etre sur le resea
 # Changelog
 ```
 ## V1.2
-Correction de la selection naturelle (Sa crash) quand on avait des absences
+Correction de la selection naturelle (Ca crash) quand on avait des absences
 
 ## V1.1
-Correctiong bug moyene generail si aucune note bonus
+Correctiong bug moyenne general si aucune note bonus
 
 ## V1.0
 Version initiale
