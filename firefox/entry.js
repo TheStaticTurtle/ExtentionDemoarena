@@ -15,7 +15,7 @@ function calculate_the_magic(ue) {
 }
 
 function do_the_magic() {
-	all_tr = document.getElementsByTagName("tr")
+	all_tr = document.getElementsByClassName("notes_bulletin")[0].getElementsByTagName("tr")
 
 	UES = []
 	currentUE = {"ueId":"BUG", "subject":[]}
